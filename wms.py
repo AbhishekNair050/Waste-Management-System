@@ -122,3 +122,4 @@ print("Priority area based on waste generation:")
 print(sorted_areas[0][0])
 print(sorted_areas)
 
+print('hello')
