@@ -1,4 +1,3 @@
-import heapq
 import json
 
 num_houses = int(input("Enter the number of houses: "))
